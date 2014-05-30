@@ -1,0 +1,528 @@
+# Logfile created on 2014-05-29 16:10:49 +1000 by logger.rb/41954
+F, [2014-05-29T22:40:00.248362 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.153867 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.202980 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.217696 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.360983 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.480791 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.485610 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.547756 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:01.879150 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:02.660669 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:02.662201 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:02.713963 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:02.812513 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:02.989743 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.027209 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.581309 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.583167 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.727877 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.768512 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:03.905134 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:04.038238 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.025800 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.027147 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.028279 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.029455 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.030278 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.425502 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.427507 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:05.444557 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.039677 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.219828 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.371719 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.678864 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.701292 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:06.990434 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.026677 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.574529 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.576193 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.577486 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.753340 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:07.924338 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:08.497490 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.112759 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.114391 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.115668 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.724603 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.927933 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:09.929368 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:10.030614 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:10.063063 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:11.262322 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:11.317796 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:11.424712 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.183200 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.184687 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.185891 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.187034 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.797245 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:12.798633 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:13.412378 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:13.413697 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:14.026812 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:14.028087 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:14.029161 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:14.640513 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:14.643057 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:15.255834 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:15.257218 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:15.258297 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:15.870487 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:16.483599 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:17.097869 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:17.626905 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:18.022258 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:18.221083 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:18.356039 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:19.132297 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:19.278614 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:19.605517 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:19.928983 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:20.784120 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:20.799982 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:21.706077 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:21.729093 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:21.913383 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:22.319921 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:22.322430 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:22.324173 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:22.640607 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:22.642020 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:23.300343 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:23.859568 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:24.186606 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:24.863292 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:24.919704 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:25.101316 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:25.699211 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:26.313986 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:26.620774 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:26.622521 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:26.689080 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:27.021911 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:29.693300 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:29.695308 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:29.696988 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:29.698282 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:30.128996 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:30.468058 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:30.470230 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:30.471294 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:30.864295 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:31.192821 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:32.149807 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:32.216193 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:32.766744 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:33.379111 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:33.380552 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:33.675516 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:33.704477 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:33.705766 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:34.301499 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:34.608468 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:34.626084 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:35.605402 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.143787 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.282724 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.307873 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.443405 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.483782 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.649745 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.802787 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.973598 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:36.985914 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.372109 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.568804 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.582897 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.968854 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.970261 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:37.971340 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:38.600905 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:38.602383 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:38.603516 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:39.306079 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:39.547186 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:39.548520 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:40.137732 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:40.152885 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:40.230976 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:40.751915 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:40.753855 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:41.366778 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:42.164098 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:42.372358 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:42.904279 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:42.906109 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:43.518074 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:44.130963 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:44.132455 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:44.376800 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:44.485260 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:44.486385 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:45.667767 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:45.691361 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:45.695155 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:46.281562 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:46.896184 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:46.977908 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:47.509600 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:48.123771 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:48.739040 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:49.087708 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:49.295094 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:49.323326 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:49.413970 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.060883 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.243804 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.298267 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.389392 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.581001 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.582443 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.699089 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:50.722584 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:51.010402 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:51.048575 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:51.507954 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:51.800309 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:51.834156 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:52.424766 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:52.640955 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:52.752019 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.348621 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.350250 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.514640 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.562659 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.696602 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:53.699887 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:54.271723 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:54.273590 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:54.445359 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:54.617944 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:55.325197 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:55.528488 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:55.725985 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:55.862142 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:55.912785 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:56.418717 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:56.458661 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:56.726245 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:56.748905 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:57.341358 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:57.954795 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:57.956099 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-29T22:40:59.798726 #58169] FATAL -- : Could not insert tweet. Possibly db lock error
+E, [2014-05-29T22:58:18.953492 #58341] ERROR -- : Tweet deleted
+I, [2014-05-29T23:01:27.114166 #58341]  INFO -- : Collection up and running
+I, [2014-05-29T23:01:30.937680 #58341]  INFO -- : Collection up and running
+I, [2014-05-29T23:01:32.057404 #58341]  INFO -- : Collection up and running
+I, [2014-05-29T23:07:31.373204 #58373]  INFO -- : logged in
+I, [2014-05-29T23:10:20.136562 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:20.138566 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:24.028215 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.196778 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.197872 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.199003 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.477565 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.478862 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.479973 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.481070 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:26.482256 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:27.818918 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:27.820584 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:27.822029 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:27.823195 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:27.959652 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:28.107438 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:28.109353 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:28.110776 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:28.431690 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:28.433737 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.390432 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.391783 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.392970 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.394173 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.395229 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.396258 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.889939 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.891568 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.892837 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.894250 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:30.895439 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:31.196871 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:31.198776 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:31.199985 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:31.201104 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.265651 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.267143 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.268502 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.269590 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.270664 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.271740 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.273015 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.274075 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.298551 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.371665 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.539078 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.548787 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.622783 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.624021 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.625226 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.883369 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.885217 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:34.886573 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:35.600645 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:35.601957 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:35.603187 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:35.604300 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:36.112381 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:36.114424 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:36.393871 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:37.955167 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:37.956586 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:37.957788 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:37.958997 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:38.466553 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:38.468465 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:38.469689 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:39.309731 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:39.311152 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:39.798277 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:40.082624 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:40.886074 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:41.172475 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:41.632678 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:41.910272 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:42.191828 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.100308 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.102057 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.103232 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.104495 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.105649 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.106757 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.815017 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.816679 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.817958 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.819062 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:44.820107 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:45.328137 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:45.469967 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:45.614492 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.148126 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.432823 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.513865 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.614667 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.718288 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:47.874839 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.004638 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.123803 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.289000 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.329672 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.382391 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.419465 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:48.590967 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:49.628819 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:49.630887 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:50.858474 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:50.859896 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:51.137847 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:51.324571 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:51.418934 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:51.698170 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:51.982911 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:52.263599 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.136463 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.137695 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.138949 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.140032 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.647593 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:54.649068 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:55.159783 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:57.002639 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:57.819929 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:57.821889 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:10:57.823298 #58373]  INFO -- : Collection up and running
+I, [2014-05-29T23:11:35.045213 #58378]  INFO -- : started
+I, [2014-05-29T23:10:50.251527 #58378]  INFO -- : Collection up and running
+I, [2014-05-29T23:18:36.706742 #58398]  INFO -- : started
+I, [2014-05-29T23:29:41.563155 #58515]  INFO -- : started
+I, [2014-05-29T23:30:57.136170 #58515]  INFO -- : Collection up and running
+I, [2014-05-29T23:30:02.442330 #58515]  INFO -- : Collection up and running
+I, [2014-05-29T23:30:12.972724 #58519]  INFO -- : started
+I, [2014-05-29T23:30:16.388513 #58519]  INFO -- : Collection up and running
+I, [2014-05-29T23:31:04.877312 #58525]  INFO -- : started
+I, [2014-05-29T23:31:19.522963 #58532]  INFO -- : started
+I, [2014-05-29T23:30:22.660234 #58536]  INFO -- : started
+I, [2014-05-29T23:35:23.870721 #58553]  INFO -- : started
+I, [2014-05-29T23:37:32.645068 #58647]  INFO -- : started
+I, [2014-05-29T23:38:04.661155 #58651]  INFO -- : started
+I, [2014-05-29T23:43:49.312548 #58666]  INFO -- : started
+I, [2014-05-29T23:45:13.345397 #58669]  INFO -- : started
+I, [2014-05-29T23:45:59.628828 #58670]  INFO -- : started
+I, [2014-05-29T23:51:50.757022 #58678]  INFO -- : started
+I, [2014-05-29T23:52:06.042623 #58680]  INFO -- : started
+I, [2014-05-29T23:52:18.779293 #58683]  INFO -- : started
+I, [2014-05-29T23:53:09.365841 #58687]  INFO -- : started
+I, [2014-05-29T23:53:51.781980 #58689]  INFO -- : started
+I, [2014-05-29T23:54:36.846432 #58692]  INFO -- : started
+I, [2014-05-29T23:55:21.822132 #58693]  INFO -- : started
+I, [2014-05-29T23:57:18.411444 #58698]  INFO -- : started
+I, [2014-05-30T00:00:14.379695 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T00:10:53.900096 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T02:00:34.215480 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T03:00:34.191880 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T03:10:14.299551 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T03:50:53.206820 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T04:00:05.262745 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T04:10:04.883260 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T04:40:28.876059 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T05:10:01.416935 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T05:40:40.787706 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T06:10:01.011620 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T07:00:28.744963 #58698]  INFO -- : Collection up and running
+I, [2014-05-30T07:30:05.155540 #58698]  INFO -- : Collection up and running
+E, [2014-05-30T08:04:05.083369 #58698] ERROR -- : Tweet deleted
+I, [2014-05-30T08:10:37.484726 #58698]  INFO -- : Collection up and running
+E, [2014-05-30T08:14:09.883081 #58698] ERROR -- : Tweet deleted
+I, [2014-05-30T09:45:35.893511 #60481]  INFO -- : started
+I, [2014-05-30T09:46:52.250504 #60498]  INFO -- : started
+I, [2014-05-30T09:49:47.659787 #60507]  INFO -- : Started
+I, [2014-05-30T09:50:42.639452 #60509]  INFO -- : Started
+I, [2014-05-30T09:51:42.729454 #60513]  INFO -- : Started
+I, [2014-05-30T09:51:58.254433 #60514]  INFO -- : Started
+I, [2014-05-30T09:52:01.558627 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:01.563369 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.075422 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.099754 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.261238 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.267207 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.960775 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:02.972339 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:03.406503 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:03.728329 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:04.200791 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:04.213276 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:04.630754 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:05.254699 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:05.876050 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:06.177505 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:06.635134 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:07.718047 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:08.114982 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:08.407386 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:09.426713 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:10.035413 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:10.678292 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:10.747378 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:11.319151 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:11.798096 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:11.828024 #60514]  INFO -- : First tweet
+I, [2014-05-30T09:52:23.861453 #60515]  INFO -- : Started
+I, [2014-05-30T09:52:26.663698 #60515]  INFO -- : First tweet
+I, [2014-05-30T11:10:22.784829 #60554]  INFO -- : Started
+I, [2014-05-30T11:10:25.694540 #60554]  INFO -- : First tweet
+I, [2014-05-30T11:10:25.694770 #60554]  INFO -- : Collection up and running
+I, [2014-05-30T13:06:10.345480 #60836]  INFO -- : Started
+I, [2014-05-30T13:06:12.870524 #60836]  INFO -- : First tweet
+I, [2014-05-30T13:10:00.506287 #60836]  INFO -- : Collection up and running
+I, [2014-05-30T13:20:00.218096 #60836]  INFO -- : Collection up and running
+I, [2014-05-30T13:30:00.132232 #60836]  INFO -- : Collection up and running
+I, [2014-05-30T13:40:00.850278 #60836]  INFO -- : Collection up and running
+F, [2014-05-30T13:44:16.103387 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.364849 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.418210 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.435779 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.456954 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.457845 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:16.803030 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:17.249797 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:18.220843 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:18.554168 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:19.015064 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:19.046771 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:19.659446 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:20.149265 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:20.591507 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:22.164605 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:22.767120 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:23.751677 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:24.103465 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:24.445223 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:24.773043 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:25.142540 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:26.274970 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:27.150299 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:27.476535 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:27.800405 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:28.139318 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:29.119772 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:29.131367 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:29.137699 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:29.269479 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:29.718661 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:30.315076 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:30.647123 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:30.963254 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:32.461929 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:32.653418 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:32.778287 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:33.758704 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:34.058228 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:34.525652 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:35.416173 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:35.434812 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:35.768688 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:36.787089 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:36.799379 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:36.862082 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:37.102522 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:37.434344 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:38.147137 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:38.226393 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:38.248525 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:39.090991 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:40.123677 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:40.577383 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:42.685298 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:43.011505 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:43.344296 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:43.674813 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:45.277000 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:45.384707 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:45.716183 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:46.168012 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:46.397395 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:46.498899 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:46.848407 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:48.788610 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:49.107021 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:49.419269 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:49.709271 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:49.739499 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:49.947223 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:50.067843 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:50.168250 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:50.799136 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:51.483353 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:51.692142 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:52.060066 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:52.065670 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:52.518235 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:53.223278 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:53.342180 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:53.434359 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:53.999583 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:54.219818 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:54.343666 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:54.548600 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:54.692256 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:55.288307 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:55.317675 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:55.617271 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:56.082962 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:56.954609 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:57.120451 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:57.292514 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:57.616948 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:57.948606 #60836] FATAL -- : Could not insert tweet. Possibly db lock error
+F, [2014-05-30T13:44:58.863824 #60836] FATAL -- : Could not insert tweet. Possibly db lock error

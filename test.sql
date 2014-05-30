@@ -1,0 +1,4 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+ANALYZE sqlite_master;
+COMMIT;
